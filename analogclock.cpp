@@ -1,8 +1,7 @@
 /****************************************************************************
 **
 ** Copyright (C) 2004-2008 Trolltech ASA. All rights reserved.
-**
-** This file is part of the example classes of the Qt Toolkit.
+** Copyright (C) 2021 Bernd Porr. All rights reserved.
 **
 ** This file may be used under the terms of the GNU General Public
 ** License versions 2.0 or 3.0 as published by the Free Software
@@ -16,20 +15,6 @@
 ** Exception version 1.1, which can be found at
 ** http://www.trolltech.com/products/qt/gplexception/ and in the file
 ** GPL_EXCEPTION.txt in this package.
-**
-** Please review the following information to ensure GNU General
-** Public Licensing requirements will be met:
-** http://trolltech.com/products/qt/licenses/licensing/opensource/. If
-** you are unsure which license is appropriate for your use, please
-** review the following information:
-** http://trolltech.com/products/qt/licenses/licensing/licensingoverview
-** or contact the sales department at sales@trolltech.com.
-**
-** In addition, as a special exception, Trolltech, as the sole
-** copyright holder for Qt Designer, grants users of the Qt/Eclipse
-** Integration plug-in the right for the Qt/Eclipse Integration to
-** link to functionality provided by Qt Designer and its related
-** libraries.
 **
 ** This file is provided "AS IS" with NO WARRANTY OF ANY KIND,
 ** INCLUDING THE WARRANTIES OF DESIGN, MERCHANTABILITY AND FITNESS FOR
