@@ -4,7 +4,7 @@
 
 Analog Clock with seconds.
 
-This is based on the QT demo but has also a hand for the seconds!
+This is based on the QT demo but has also a hand for the seconds.
 Good for zoom live broadcasts!
 
 ## Pre-requisites
@@ -20,4 +20,6 @@ QT5 development environment
 
 `sudo make install`
 
-or just run it from the source directory with `./analogclock`.
+## How to run it
+
+`analogclock` or from the source directory with `./analogclock`.
