@@ -4,8 +4,8 @@
 
 Analog Clock with seconds.
 
-This is based on the QT demos but a hand for the seconds has been
-added and the minute hand jumps forward ever minute.
+This is based on the QT demo but has also a hand for the seconds!
+Good for zoom live broadcasts!
 
 ## Pre-requisites
 
