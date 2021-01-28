@@ -9,11 +9,12 @@ Good for zoom live broadcasts!
 
 ## Pre-requisites
 
-QT5 development environment
+ - QT5 development environment
+ - cmake
 
 ## How to compile
 
- - `qmake`
+ - `cmake .`
  - `make`
 
 ## Installation
